@@ -12,14 +12,6 @@ The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6
 - `requirements.txt`: List of Python libraries and dependencies required to run the project.
 - `README.md`: This file providing an overview of the project and instructions for running the code.
 
-## Usage
-
-To run the code in Google Colab:
-
-Open the notebook file in this repository.
-Click on the "Open in Colab" badge at the top of the notebook to open it in Google Colab.
-Follow the instructions within the notebook to execute the code cells and analyze the results.
-That's it! If you encounter any issues or have questions, feel free to reach out.
 
 ## About the Dataset
 
